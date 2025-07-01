@@ -1,4 +1,5 @@
-# html-day2-task
+# index.html
+
 <!DOCTYPE html>
 <html>
 <head>
